@@ -1,0 +1,17 @@
+{
+    "name": "lucassabreu/zend-expressive-helpers",
+    "description": "Some helpers for Zend Expressive",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lucas dos Santos Abreu",
+            "email": "lucas.s.abreu@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4": {
+            "ZendExpressiveHelpers\\" : "src/"
+        }
+    },
+    "require": {}
+}
